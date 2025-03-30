@@ -1,14 +1,12 @@
-<h1>Hi <img src="Data/wave.gif" width=50 >, I'm Joseph</h1>
+<h1>Hi <img src="Data/wave.gif" width=40 >, I'm Joseph</h1>
 
 
-**I'm a fulstack developer and coding enthusiast.**
+**I'm a fullstack developer and coding enthusiast.**
 
 - Currently Learning **C#**
-- My Skills are **Graphic Design, UI/UX Design, Frontend and Backend Development, , JavaScript, Java and their frameworks**
+- My Skills are **Graphic Design, UI/UX Design, Frontend and Backend Development, JavaScript, Java and their frameworks**
 - Reach me at **jmmwangi007@gmail.com**
 - View my website at **www.brooksideconsultancy.com**
-
-
 
 
 # Around the Web &#127760; 
