@@ -10,13 +10,12 @@
 - View my behance at **www.behance.com/jmmwangi007**
 - View my vimeo at **www.vimeo.com/jmmwangi007** 
 
-<!-- ### Around the Web &#127760;
+<!-- ### Around the Web &#127760; -->
 
-[![INSTA](Data/instagram.svg)](https://instagram.com/rohan14.io) 
-[![DEV.TO](Data/devBlog.svg)](https://dev.to/rohankiratsata) -->
-[![LINKEDIN](Data/linkedin.svg)](https://www.linkedin.com/in/jmmwangi007/) 
-[![BEHANCE](Data/linkedin.svg)](https://www.behance.com/in/jmmwangi007/) 
-[![VIMEO](Data/linkedin.svg)](https://www.vimeo.com/in/jmmwangi007/) 
+
+[<img src="Data/linkedin.svg" width="36">](https://www.linkedin.com/in/jmmwangi007/)
+[<img src="Data/behance.svg" width="36">](https://www.behance.com/jmmwangi007/)
+[<img src="Data/vimeo.svg" width="36">](https://www.vimeo.com/jmmwangi007/)
 
 ---
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kiratsata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
