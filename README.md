@@ -15,6 +15,8 @@
 [![INSTA](Data/instagram.svg)](https://instagram.com/rohan14.io) 
 [![DEV.TO](Data/devBlog.svg)](https://dev.to/rohankiratsata) -->
 [![LINKEDIN](Data/linkedin.svg)](https://www.linkedin.com/in/jmmwangi007/) 
+[![BEHANCE](Data/linkedin.svg)](https://www.behance.com/in/jmmwangi007/) 
+[![VIMEO](Data/linkedin.svg)](https://www.vimeo.com/in/jmmwangi007/) 
 
 ---
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kiratsata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
