@@ -7,8 +7,8 @@
 - My Skills are **Graphic Design, UI/UX Design, Frontend and Backend Development, , JavaScript, Java and their frameworks**
 - Reach me at **jmmwangi007@gmail.com**
 - View my website at **https://www.brooksideconsultancy.com**
-- View my behance at **behance.com/jmmwangi007**
-- View my vimeo at **vimeo.com/jmmwangi007** 
+- View my behance at **www.behance.com/jmmwangi007**
+- View my vimeo at **www.vimeo.com/jmmwangi007** 
 
 <!-- ### Around the Web &#127760;
 
