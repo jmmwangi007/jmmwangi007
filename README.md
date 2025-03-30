@@ -1,12 +1,14 @@
-<h1>Hi <img src="Data/wave.gif" width=50 >, I'm Rohan</h1>
+<h1>Hi <img src="Data/wave.gif" width=50 >, I'm Joseph</h1>
 
 
-**I'm a frontend web developer and coding enthusiast.**
+**I'm a fulstack developer and coding enthusiast.**
 
-- Currently Learning **MongoDB**
-- My Skills are **Frontend Development, UI/UX Desiging, JavaScript, Java**
-- Reach me at **kiratsatarohan@gmail.com**
-<!-- - Read my blogs at **[]** -->
+- Currently Learning **C#**
+- My Skills are **Graphic Design, UI/UX Design, Frontend and Backend Development, , JavaScript, Java and their frameworks**
+- Reach me at **jmmwangi007@gmail.com**
+- View my website at **brooksideconsultancy.com**
+- View my behance at **behance.com/jmmwangi007**
+- View my vimeo at **vimeo.com/jmmwangi007** 
 
 <!-- ### Around the Web &#127760;
 
