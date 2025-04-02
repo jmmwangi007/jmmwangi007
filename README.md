@@ -5,7 +5,7 @@
 
 - Currently Learning **C#**
 - My Skills are **Graphic Design, UI/UX Design, Frontend and Backend Development**
-- Languages mastered are **JavaScript, Java, Ruby on Rails, PHP, Python and their frameworks**
+- Languages mastered are **JavaScript, Java, Ruby, PHP, Python and their frameworks**
 - Reach me at **jmmwangi007@gmail.com**
 - View my website at **www.brooksideconsultancy.com**
 
