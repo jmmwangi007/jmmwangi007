@@ -4,7 +4,8 @@
 **I'm a fullstack developer and coding enthusiast.**
 
 - Currently Learning **C#**
-- My Skills are **Graphic Design, UI/UX Design, Frontend and Backend Development, JavaScript, Java, Ruby on Rails, PHP and their frameworks**
+- My Skills are **Graphic Design, UI/UX Design, Frontend and Backend Development**
+- Languages mastered are **JavaScript, Java, Ruby on Rails, PHP, Python and their frameworks**
 - Reach me at **jmmwangi007@gmail.com**
 - View my website at **www.brooksideconsultancy.com**
 
